@@ -2,8 +2,8 @@
 INFORMASI UMUM
 
 Nama kelompok: PTM
-Judul Topik: 
-Alamat Github: 
+Judul Topik: Cara Menjadikan Olahraga Sebagai Kebiasaan
+Alamat Github: https://github.com/saormanullang/PCR-Team 
 Alamat Trello: 
 Anggota 1: 
 	Nama: Parsaoran Manullang
