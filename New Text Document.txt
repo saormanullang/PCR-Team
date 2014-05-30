@@ -1,0 +1,66 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: PTM
+Judul Topik: 
+Alamat Github: 
+Alamat Trello: 
+Anggota 1: 
+	Nama: Parsaoran Manullang
+	NIM : 121113797
+Anggota 2:
+	Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+Anggota 3:
+	Nama: Richardo Napitupulu
+	NIM : 121113282
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: 
+	Nama : Parsaoran Manullang
+	Nim  : 121113797
+
+Sprint 2:
+        Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+
+Sprint 3: 
+        Nama: Richardo Napitupulu
+	NIM : 121113282
+        
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+27/5 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Parsaoran Manullang
+	NIM : 121113797
+1.Semalam saya : Mengerjakan referensi tentang judul, diskusi tentang topik dan pembagian tugas buat team dan melakukan push.
+2.Hari ini saya : Mengerjakan dan mencari sumber refrensi mengenai project yang akan di kerjakan team, mempush Logbook.
+3.Saya ada kendala disaat melakukan Push.
+
+
+(Nama Anggota 2):
+Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+1.Semalam saya : Berdiskusi topik yang dipilih,membagian tugas
+2.Hari ini saya : Instal Git, Mencari bahan.
+3.Saya ada kendala di masalah yang dihadapi mengpush terjadi masalah/error.
+
+(Nama Anggota 3):
+Nama: Richardo Napitupulu
+	NIM : 121113282
+1. Semalam saya :membahas topik dan memilih topik yang akan di ajukan.
+2. Hari ini saya : mengembangkan Topik yang sudah di tentukan tugas masing-masing,mencari bahan.
+3. Saya ada kendala di masalah yang dihadapi dalam mengpush terjadi masalah sedikit..
+
+
