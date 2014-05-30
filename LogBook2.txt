@@ -1,0 +1,66 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: PTM
+Judul Topik: Cara Menjadikan Olahraga Sebagai Kebiasaan
+Alamat Github: https://github.com/saormanullang/PCR-Team 
+Alamat Trello: 
+Anggota 1: 
+	Nama: Parsaoran Manullang
+	NIM : 121113797
+Anggota 2:
+	Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+Anggota 3:
+	Nama: Richardo Napitupulu
+	NIM : 121113282
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+29
+Scrummaster: 
+	Nama : Parsaoran Manullang
+	Nim  : 121113797
+
+Sprint 2:
+        Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+
+Sprint 3: 
+        Nama: Richardo Napitupulu
+	NIM : 121113282
+        
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+29
+Daily Scrum
+(Nama Anggota 1):
+Nama: Parsaoran Manullang
+	NIM : 121113797
+1.Semalam saya : Mengerjakan dan mencari sumber refrensi mengenai project yang akan di kerjakan team, mempush Logbook.
+2.Hari ini saya : Berdiskusi menambahan informasi topik,
+3.Saya ada kendala disaat melakukan Push.
+
+
+(Nama Anggota 2):
+Nama: Charly Leovold Sidauruk
+	NIM : 121111575
+1.Semalam saya : Instal Git, Mencari bahan.
+2.Hari ini saya : Mencari dan menambahkan informasi tentang topik
+3.Saya ada kendala mengpush terjadi masalah sedikit.
+
+(Nama Anggota 3):
+Nama: Richardo Napitupulu
+	NIM : 121113282
+1. Semalam saya :mengembangkan Topik yang sudah di tentukan tugas masing-masing,mencari bahan.
+2. Hari ini saya :  Mencari tambahan informasi untuk topik MENJADIKAN OLAHRAGA SEBAGAI KEBIASAAN
+3. Saya ada kendala di masalah Sempat gagal ketika memPush..
+
+
