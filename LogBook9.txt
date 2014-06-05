@@ -1,0 +1,65 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: PTM
+Judul Topik: Cara Menjadikan Olahraga Sebagai Kebiasaan
+Alamat Github: https://github.com/richardonapitupulu
+Alamat Trello: https://trello.com/richardonapitupulu
+Anggota 1: 
+	Nama: Richardo Napitupulu
+	NIM : 12.111.3282
+Anggota 2:
+	Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+Anggota 3:
+	Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: 
+	Nama : Richardo Napitupulu
+	Nim  : 12.111.3282
+
+Sprint 2:
+        Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+
+Sprint 3: 
+        Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+        
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+05/6 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Richardo Napitupulu
+	NIM : 12.111.3282
+1.Semalam saya :Melengkapi informasi tentang Mito-mitos Olahraga Yang Salah untuk Topik MENJADIKAN OLAHRAGA SEBAGAI KEBIASAAN  
+2.Hari ini saya : membuat LogBook, membuat Daily Scrum, membuat informasi ke bentuk bispoke.js dan memPush
+
+
+(Nama Anggota 2):
+Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+1.Semalam saya : membuat LogBook, membuat Daily Scrum, membuat informasi ke bentuk bispoke.js
+2.Hari ini saya : Mencari Informasi
+3.Saya mengalami kegagalan saat memPUSH
+
+(Nama Anggota 3):
+Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+1. Semalam saya : Mencari info lebih banyak
+2. Hari ini saya : Mencari tambahan informasi untuk topik MENJADIKAN OLAHRAGA SEBAGAI KEBIASAAN
+3. Ketika memPUSH sempat error
+
+
