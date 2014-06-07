@@ -1,0 +1,65 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: PCR-Team
+Judul Topik: Cara Menjadikan Olahraga Sebagai Kebiasaan
+Alamat Github: https://github.com/richardonapitupulu
+Alamat Trello: https://trello.com/richardonapitupulu
+Anggota 1: 
+	Nama: Richardo Napitupulu
+	NIM : 12.111.3282
+Anggota 2:
+	Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+Anggota 3:
+	Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: 
+	Nama : Richardo Napitupulu
+	Nim  : 12.111.3282
+
+Sprint 2:
+        Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+
+Sprint 3: 
+        Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+        
+
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+07/6 
+Daily Scrum
+(Nama Anggota 1):
+Nama: Richardo Napitupulu
+	NIM : 12.111.3282
+1.Semalam saya :mempush ke bespoke.js
+2.Hari ini saya :Membuat LogBook
+3.Masih ada anggota yang tidak mempush
+ 
+(Nama Anggota 2):
+Nama: Charly Leovold Sidauruk
+	NIM : 12.111.1575
+1.Semalam saya : Mempush info
+2.Hari ini saya : mempush
+3.Saya mengalami kegagalan saat memPUSH
+
+(Nama Anggota 3):
+Nama: Parsaoran Manullang
+	NIM : 12.111.3797
+1. Semalam saya : Mencari tambahan informasi untuk topik MENJADIKAN OLAHRAGA SEBAGAI KEBIASAAN
+2. Hari ini saya : mengedit slide bespoke.js
+3. Ketika memPUSH sempat error
+
+
