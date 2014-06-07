@@ -2,13 +2,13 @@
 
 // variables!
 
-slide_width = 640px
-slide_height = 480px
-slide_background = #eaeaea
+slide_width = 1000px
+slide_height = 500px
+slide_background = #ADFF2F
 
 slide_transition_length = .6s
 slide_transition_easing = ease
-slide_transition_rotate_y = 90deg
+slide_transition_rotate_y = -100deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
 slide_transition_nudge_x = -100px
 
@@ -80,12 +80,12 @@ article
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: translateX(slide_transition_nudge_x * -20) translateX(slide_width / -7) rotateY(slide_transition_rotate_y * -10) translateX(slide_width / -5)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: translateX(slide_transition_nudge_y) translateX(slide_width / 5) rotateY(slide_transition_rotate_x) translateX(slide_width / 5)
   @media print
-    transform: none
+    transform: none 
 
 .bespoke-inactive
   opacity: 0
@@ -167,11 +167,13 @@ h1
   line-height: 82px
   letter-spacing: -2px
   margin-bottom: 16px
+  color: #FF0000
 
 h2
   font-size: 42px
   letter-spacing: -1px
   margin-bottom: 8px
+  color: #00008B
 
 h3
   font-size: 24px
